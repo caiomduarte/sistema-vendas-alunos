@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|c:\\users\\caio malheiros\\desktop\\projeto controle vendas - aluno\\br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|c:\\users\\caio malheiros\\desktop\\projeto controle vendas - aluno\\br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|c:\\users\\caio malheiros\\desktop\\projeto controle vendas - aluno\\br.com.projeto.dao\\itemvendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\itemvendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|c:\\users\\caio malheiros\\desktop\\projeto controle vendas - aluno\\br.com.projeto.dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|c:\\users\\caio malheiros\\desktop\\projeto controle vendas - aluno\\br.com.projeto.view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|c:\\users\\caio malheiros\\desktop\\projeto controle vendas - aluno\\br.com.projeto.view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\FrmMenu.cs",
+              "RelativeToolTip": "br.com.projeto.view\\FrmMenu.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAcwH0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:55:40.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "br.com.projeto.view\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:55:33.521Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemVendaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.dao\\ItemVendaDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\ItemVendaDAO.cs",
+              "ToolTip": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.dao\\ItemVendaDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\ItemVendaDAO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:54:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frmprodutos.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\Frmprodutos.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmprodutos.cs",
+              "ToolTip": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\Frmprodutos.cs",
+              "RelativeToolTip": "br.com.projeto.view\\Frmprodutos.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAD4v3IAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:52:07.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frmprodutos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\Frmprodutos.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmprodutos.cs",
+              "ToolTip": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.view\\Frmprodutos.cs [Design]",
+              "RelativeToolTip": "br.com.projeto.view\\Frmprodutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:52:06.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.dao\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\ProdutoDAO.cs",
+              "ToolTip": "C:\\Users\\Caio Malheiros\\Desktop\\Projeto Controle Vendas - aluno\\br.com.projeto.dao\\ProdutoDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\ProdutoDAO.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAD4v3YAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:49:09.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
